@@ -1,0 +1,15 @@
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\bin\Debug\net6.0\task22.exe
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\bin\Debug\net6.0\task22.deps.json
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\bin\Debug\net6.0\task22.dll
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\bin\Debug\net6.0\task22.pdb
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\obj\Debug\net6.0\task22.dll
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\obj\Debug\net6.0\refint\task22.dll
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\obj\Debug\net6.0\task22.pdb
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache
+D:\!Users\ligei\Desktop\Seminar2 C#\task22\obj\Debug\net6.0\ref\task22.dll
